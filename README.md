@@ -34,6 +34,11 @@
 
 ### Answer the Questions
 
+
+Ethics is, in general, the views and common moral standards that society defines, such as the rules of civilized conduct in the workplace, the law. Ethics comes from a social point of view, so ethics can change in different contexts
+
+https://www.nspe.org/resources/ethics/code-ethics
+
 1. If all people were ethical in all their interactions, which centerpiece of modern society would be obviated?
 
 2. Ethics creates a dichotomy between the comfort of the individual and the longevity, or mere existance, of the group. Give an example of an extreme case from recent history that favored the group to the detriment of the individual. How would you embed the principle of balance of the interests of the individual and the group into the ethical code itself? Be specific.
