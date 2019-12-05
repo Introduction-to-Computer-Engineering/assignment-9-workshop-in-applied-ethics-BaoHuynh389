@@ -51,9 +51,18 @@ _Note: Class activities are group but individual submissions are required for gr
  
 1. In a small group up to 5 people, imagine you are a small _tech_ startup. Then:
    1. List the group members below.
+   List the group members below.
+Jorge T
+Jesus CM
+Bao H
+Mustafa A
+Logan P
+Jackie W
+
    2. Pick a president and write their name below.
+   Logan P
    3. Describe your technical innovation below.
-   
+   Fully immersed Virtual Realit. Shuts down bodily function and creates a virtual world inside your mind to make the feeling of virtual reality feel more realistic.
 2. Describe the ways your innovation, if realized, would affect society. 
    1. Below, list at least 3 adverse effects (including but not limited to _misuse_) of the innovation and anticipatory actions and mechanisms you can embed that
    2. Below, give an _explicit_ definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime: (i) immediately upon launch; (ii) after enough time for it to be absorbed into everyday life.
