@@ -50,14 +50,14 @@ https://www.nspe.org/resources/ethics/code-ethics
 _Note: Class activities are group but individual submissions are required for grading._
  
 1. In a small group up to 5 people, imagine you are a small _tech_ startup. Then:
-   1. List the group members below.
-   List the group members below.
-Jorge T
-Jesus CM
-Bao H
-Mustafa A
-Logan P
-Jackie W
+   1. List the group members below
+   - List the group members below.
+- Jorge T
+- Jesus CM
+- Bao H
+- Mustafa A
+- Logan P
+- Jackie W
 
    2. Pick a president and write their name below.
    Logan P
